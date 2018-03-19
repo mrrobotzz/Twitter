@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">twiter.demmo</string>
+    <string name="com.twitter.sdk.android.CONSUMER_KEY">9dX3Qx99jBHHgB2Jsc1TI2G4S</string>
+    <string name="com.twitter.sdk.android.CONSUMER_SECRET">	m36mpgzfC1iVMeTWmotmc6okkyJLIDhvQRewHEtgDWU51aitOT
+</string>
+    <string name="textview">TextView</string>
+</resources>
